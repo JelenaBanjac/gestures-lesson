@@ -1,0 +1,40 @@
+{
+  "_id": "ck3yv0jj802lb01yw4qmt9glg",
+  "length": 2,
+  "plane": 1,
+  "startTime": 2,
+  "title": "Pre-Quiz",
+  "activityType": "ac-quiz",
+  "configVersion": 1,
+  "template": {
+    "rz": {
+      "justification": "",
+      "form": {
+        "0": {"text": ""},
+        "1": {"text": ""},
+        "2": {"text": ""},
+        "3": {"text": ""},
+        "4": {"text": ""},
+        "5": {"text": ""}
+      },
+      "coordinates": {"x": 0, "y": 0, "valid": false}
+    },
+    "lis": {}
+  },
+  "graphId": "ck3yv0jj602l501yw6nbabhtd",
+  "state": "computed",
+  "templateRZCloned": {
+    "justification": "",
+    "form": {
+      "0": {"text": ""},
+      "1": {"text": ""},
+      "2": {"text": ""},
+      "3": {"text": ""},
+      "4": {"text": ""},
+      "5": {"text": ""}
+    },
+    "coordinates": {"x": 0, "y": 0, "valid": false}
+  },
+  "actualStartingTime": "2019-12-10T08:54:40.158Z",
+  "actualClosingTime": "2019-12-10T08:56:53.918Z"
+}

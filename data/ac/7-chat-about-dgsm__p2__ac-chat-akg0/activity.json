@@ -1,0 +1,14 @@
+{
+  "_id": "ck3yv0jj802ll01yw63uaakg0",
+  "graphId": "ck3yv0jj602l501yw6nbabhtd",
+  "length": 3,
+  "plane": 2,
+  "startTime": 14,
+  "title": "Chat about DGSM",
+  "activityType": "ac-chat",
+  "configVersion": 1,
+  "groupingKey": "group",
+  "state": "computed",
+  "actualStartingTime": "2019-12-10T09:12:39.088Z",
+  "actualClosingTime": "2019-12-10T09:17:18.418Z"
+}

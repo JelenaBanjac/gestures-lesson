@@ -1,0 +1,14 @@
+{
+  "_id": "ck3yv0jj802lk01yw42lcagp4",
+  "graphId": "ck3yv0jj602l501yw6nbabhtd",
+  "length": 3,
+  "plane": 2,
+  "startTime": 8,
+  "title": "Chat about SGDM",
+  "activityType": "ac-chat",
+  "configVersion": 1,
+  "groupingKey": "group",
+  "state": "computed",
+  "actualStartingTime": "2019-12-10T09:01:07.074Z",
+  "actualClosingTime": "2019-12-10T09:08:01.868Z"
+}

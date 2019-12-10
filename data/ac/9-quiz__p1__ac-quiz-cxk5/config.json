@@ -1,0 +1,19 @@
+{
+  "shuffle": "none",
+  "title": "How well did you do in the previous quiz ?",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "question": "<p>Please select your score in the previous test below.</p>",
+      "answers": [
+        {"choice": "0"},
+        {"choice": "1"},
+        {"choice": "2"},
+        {"choice": "3"}
+      ]
+    }
+  ],
+  "advancedConfig": false
+}

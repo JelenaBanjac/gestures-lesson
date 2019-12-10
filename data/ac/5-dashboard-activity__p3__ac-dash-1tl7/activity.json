@@ -1,0 +1,14 @@
+{
+  "_id": "ck3yv0jj802lf01ywegnr1tl7",
+  "length": 3,
+  "plane": 3,
+  "startTime": 8,
+  "title": "Dashboard activity",
+  "activityType": "ac-dash",
+  "configVersion": 1,
+  "graphId": "ck3yv0jj602l501yw6nbabhtd",
+  "participationMode": "projector",
+  "state": "computed",
+  "actualStartingTime": "2019-12-10T09:01:07.010Z",
+  "actualClosingTime": "2019-12-10T09:08:01.865Z"
+}

@@ -1,0 +1,79 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "answers": [{"choice": "True"}, {"choice": "False"}],
+      "question": "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>"
+    },
+    {
+      "question": "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+      "answers": [
+        {"choice": "Happiness"},
+        {"choice": "Lying"},
+        {"choice": "Nervousness"}
+      ]
+    },
+    {
+      "question": "<p>The Middle Finger comes from Ancient Greece.</p>",
+      "answers": [{"choice": "True"}, {"choice": "False"}]
+    },
+    {
+      "question": "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+      "answers": [
+        {"choice": "Good luck !"},
+        {"choice": "Good!"},
+        {"choice": "Up yours !"},
+        {"choice": "You’re dead !"}
+      ]
+    },
+    {
+      "question": "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+      "answers": [
+        {"choice": "Taking a bow"},
+        {"choice": "Clenching your teeth and hissing"},
+        {"choice": "Clapping frantically"},
+        {"choice": "Tilting your head from side to side"}
+      ]
+    },
+    {
+      "question": "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+      "answers": [
+        {"choice": "Crossed fingers"},
+        {"choice": "Thumbs up"},
+        {"choice": "The “V” sign"},
+        {"choice": "Sign of the horns"}
+      ]
+    },
+    {
+      "question": "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+      "answers": [
+        {"choice": "Knocking on wood"},
+        {"choice": "Crossed fingers "},
+        {"choice": "Mano a borsa"},
+        {"choice": "“Call me” hand gesture"}
+      ]
+    },
+    {
+      "question": "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+      "answers": [
+        {"choice": "A downward nod"},
+        {"choice": "The thumbs-up"},
+        {"choice": "Clapping your hands"},
+        {"choice": "An open smile"}
+      ]
+    },
+    {
+      "question": "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>",
+      "answers": [
+        {"choice": "Ancient Pagan religions"},
+        {"choice": "Ancient Romans"},
+        {"choice": "Norse clans"}
+      ]
+    }
+  ],
+  "title": "Discuss with the Team - Different Gestures Same Meaning",
+  "guidelines": "<p>Please select the option that seems correct.<strong>True</strong></p>"
+}

@@ -1,0 +1,404 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "mixed1": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Happiness",
+          "True",
+          "Up yours !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "Clapping your hands",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 0, 0, 2, 3, 0, 0, 2, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Happiness.  The Middle Finger comes from Ancient Greece. True.  If your Persian friend gives you the “Thumbs up” gesture, he means Up yours !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? Clapping your hands.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"2": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "mixed2": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [null, null, null, null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1, -1, -1, -1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""},
+          "6": {"text": ""},
+          "7": {"text": ""},
+          "8": {"text": ""}
+        }
+      }
+    },
+    "mixed3": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Happiness",
+          "False",
+          "You’re dead !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "The thumbs-up",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 0, 1, 3, 3, 0, 0, 1, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Happiness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means You’re dead !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"3": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "mixed4": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Nervousness",
+          "False",
+          "You’re dead !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "The thumbs-up",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 2, 1, 3, 3, 0, 0, 1, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Nervousness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means You’re dead !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"3": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "mixed5": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Nervousness",
+          "False",
+          "Up yours !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Crossed fingers ",
+          "The thumbs-up",
+          "Ancient Pagan religions"
+        ],
+        "answersIndex": [0, 2, 1, 2, 3, 0, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Nervousness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means Up yours !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Crossed fingers .  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Pagan religions.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "same1": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Happiness",
+          "False",
+          "Good!",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "A downward nod",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 0, 1, 1, 3, 0, 0, 0, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Happiness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means Good!.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? A downward nod.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"0": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "same3": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "False",
+          "Lying",
+          "False",
+          "Good!",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Crossed fingers ",
+          "The thumbs-up",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 1, 1, 1, 3, 0, 1, 1, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. False.  In Japan, high-pitched laughter indicates: Lying.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means Good!.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Crossed fingers .  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "same4": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Happiness",
+          "False",
+          "Up yours !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "The thumbs-up",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 0, 1, 2, 3, 0, 0, 1, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Happiness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means Up yours !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "same5": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Nervousness",
+          "False",
+          "You’re dead !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "The thumbs-up",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 2, 1, 3, 3, 0, 0, 1, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Nervousness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means You’re dead !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"3": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    },
+    "undefined": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media0.giphy.com/media/1dHVx5QnSsNAwpGnmC/giphy.gif?cid=790b761161ae474d3d3a7e1a062d0a6a95eb2f6815ed6383&amp;rid=giphy.gif\" width=\"480\" height=\"240\"/>In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders.</p>",
+          "<p><img src=\"https://media0.giphy.com/media/l4Ep27hHhgJfUh7zi/giphy.gif?cid=790b7611f646925110d2f56a2058926a07a2d7272780df77&amp;rid=giphy.gif\" width=\"480\" height=\"330\"/>In Japan, high-pitched laughter indicates:</p>",
+          "<p>The Middle Finger comes from Ancient Greece.</p>",
+          "<p>If your Persian friend gives you the “Thumbs up” &nbsp;gesture, he means<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/thumbs-up.gif\" width=\"312\" height=\"176\"/></p>",
+          "<p>Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"?</p>",
+          "<p>Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ?</p>",
+          "<p><img src=\"/minio/uploads/ck3w8k2u600d1307i88x33d4y\" width=\"356\" height=\"152\"/>Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ?</p>",
+          "<p>Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece?</p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …...</p>"
+        ],
+        "answers": [
+          "True",
+          "Nervousness",
+          "False",
+          "You’re dead !",
+          "Tilting your head from side to side",
+          "Crossed fingers",
+          "Knocking on wood",
+          "The thumbs-up",
+          "Ancient Romans"
+        ],
+        "answersIndex": [0, 2, 1, 3, 3, 0, 0, 1, 1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: In Western cultures, mutual eye contact is a sign of respect. In some Carribbean and South Asian countries, also Australian Aboriginal culture, it is a sign of respect to not make eye contact with superiors and elders. True.  In Japan, high-pitched laughter indicates: Nervousness.  The Middle Finger comes from Ancient Greece. False.  If your Persian friend gives you the “Thumbs up” gesture, he means You’re dead !.  Surely a nod is a universal sign for \"yes\"? No. In Bulgaria only a downward nod means yes and an upward nod accompanied by a sucking or clicking sound means no. So careful when answering questions! What other gesture in Bulgaria can be used to say \"yes\"? Tilting your head from side to side.  Which of the following gestures traces back to Catholicism, and means wishing for luck in the United States ? Crossed fingers.  Which gesture is equivalent to ‘Pressing thumbs in Germany’ in Croatia and Romania ? Knocking on wood.  Which physical gesture, commonly recognized in the western world as an affirmative, can be found vulgar and offensive in places such as Russia, the Middle East and even parts of Greece? The thumbs-up.  ‘Pressing thumbs’ in some German speaking countries traces back to …... Ancient Romans.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"3": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"0": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"1": true, "text": ""}
+        }
+      }
+    }
+  }
+}

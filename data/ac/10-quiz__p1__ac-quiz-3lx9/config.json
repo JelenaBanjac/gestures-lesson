@@ -1,0 +1,61 @@
+{
+  "shuffle": "none",
+  "questions": [
+    {
+      "multiple": false,
+      "text": false,
+      "value": false,
+      "answers": [
+        {"choice": "neck slide"},
+        {"choice": "wink"},
+        {"choice": "call me"},
+        {"choice": "thumbs up"}
+      ],
+      "question": "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>"
+    },
+    {
+      "question": "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+      "answers": [
+        {"choice": "England"},
+        {"choice": "Italy"},
+        {"choice": "Mexico"},
+        {"choice": "Venezuela"}
+      ]
+    },
+    {
+      "question": "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+      "answers": [
+        {"choice": "Your family"},
+        {"choice": "Your life"},
+        {"choice": "Your job"},
+        {"choice": "Your money"}
+      ]
+    },
+    {
+      "question": "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+      "answers": [
+        {"choice": "Say “I agree”"},
+        {"choice": "Nod and smile"},
+        {"choice": "Make a sharp sucking noise"}
+      ]
+    },
+    {
+      "question": "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+      "answers": [
+        {"choice": "Turkey"},
+        {"choice": "Cyprus"},
+        {"choice": "Bulgaria"},
+        {"choice": "Sri Lanka"}
+      ]
+    },
+    {
+      "question": "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>",
+      "answers": [
+        {"choice": "Ancient Pagan religions"},
+        {"choice": "Ancient Romans"},
+        {"choice": "Norse clans"}
+      ]
+    }
+  ],
+  "guidelines": "<p><br></p>"
+}

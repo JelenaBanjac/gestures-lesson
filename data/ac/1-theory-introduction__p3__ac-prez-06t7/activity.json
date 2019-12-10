@@ -1,0 +1,33 @@
+{
+  "_id": "ck3yv0jj802l601ywayx106t7",
+  "length": 2,
+  "plane": 3,
+  "startTime": 0,
+  "title": "Theory Introduction",
+  "activityType": "ac-prez",
+  "configVersion": 1,
+  "participationMode": "readonly",
+  "template": {
+    "rz": {
+      "annotations": {},
+      "scratchpadAnnotations": [],
+      "scratchpadMode": false,
+      "pageNum": 1,
+      "pdf_file": "",
+      "furthestPageNum": 1
+    },
+    "lis": {}
+  },
+  "graphId": "ck3yv0jj602l501yw6nbabhtd",
+  "state": "computed",
+  "templateRZCloned": {
+    "annotations": {},
+    "scratchpadAnnotations": [],
+    "scratchpadMode": false,
+    "pageNum": 1,
+    "pdf_file": "",
+    "furthestPageNum": 1
+  },
+  "actualStartingTime": "2019-12-10T08:52:50.744Z",
+  "actualClosingTime": "2019-12-10T08:54:38.518Z"
+}

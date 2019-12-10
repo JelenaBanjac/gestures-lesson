@@ -1,0 +1,47 @@
+{
+  "_id": "ck3yv0jj802l901ywbynj869z",
+  "length": 3,
+  "plane": 2,
+  "startTime": 8,
+  "title": "Discuss with the team (SGDM)",
+  "groupingKey": "group",
+  "activityType": "ac-quiz",
+  "configVersion": 1,
+  "template": {
+    "rz": {
+      "justification": "",
+      "form": {
+        "0": {"text": ""},
+        "1": {"text": ""},
+        "2": {"text": ""},
+        "3": {"text": ""},
+        "4": {"text": ""},
+        "5": {"text": ""},
+        "6": {"text": ""},
+        "7": {"text": ""},
+        "8": {"text": ""}
+      },
+      "coordinates": {"x": 0, "y": 0, "valid": false}
+    },
+    "lis": {}
+  },
+  "graphId": "ck3yv0jj602l501yw6nbabhtd",
+  "state": "computed",
+  "templateRZCloned": {
+    "justification": "",
+    "form": {
+      "0": {"text": ""},
+      "1": {"text": ""},
+      "2": {"text": ""},
+      "3": {"text": ""},
+      "4": {"text": ""},
+      "5": {"text": ""},
+      "6": {"text": ""},
+      "7": {"text": ""},
+      "8": {"text": ""}
+    },
+    "coordinates": {"x": 0, "y": 0, "valid": false}
+  },
+  "actualStartingTime": "2019-12-10T09:01:05.975Z",
+  "actualClosingTime": "2019-12-10T09:08:01.865Z"
+}

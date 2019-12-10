@@ -1,0 +1,404 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "mixed1": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he is evil",
+          "Poverty in life",
+          "Money.",
+          "Two men kissing",
+          "Hurry up",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 0, 1, 1, 0, 1, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he is evil.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? Poverty in life.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men kissing.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Hurry up.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"1": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "mixed2": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [null, null, null, null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1, -1, -1, -1],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""},
+          "6": {"text": ""},
+          "7": {"text": ""},
+          "8": {"text": ""}
+        }
+      }
+    },
+    "mixed3": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "Poverty in life",
+          "Money.",
+          "Two men holding hands",
+          "Calm down",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 1, 1, 3, 0, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? Poverty in life.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men holding hands.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Calm down.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "mixed4": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "South Africa",
+          "That he has an adulterous wife",
+          "Poverty in life",
+          "Money.",
+          "Two men holding hands",
+          "Calm down",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [1, 1, 1, 1, 3, 0, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? South Africa.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? Poverty in life.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men holding hands.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Calm down.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "mixed5": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "The evil eye",
+          "Money.",
+          "Two men holding hands",
+          "Hurry up",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 0, 1, 3, 1, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? The evil eye.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men holding hands.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Hurry up.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"1": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "same1": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "The evil eye",
+          "Money.",
+          "Two men kissing",
+          "Calm down",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 0, 1, 0, 0, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? The evil eye.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men kissing.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Calm down.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "same3": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "Poverty in life",
+          "Money.",
+          "Two men holding hands",
+          "Calm down",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 1, 1, 3, 0, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? Poverty in life.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men holding hands.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Calm down.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "same4": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "Their emptiness in love",
+          "Money.",
+          "Two men holding hands",
+          "Hurry up",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 3, 1, 3, 1, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? Their emptiness in love.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men holding hands.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Hurry up.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"3": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"1": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "same5": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "A destructive black hole",
+          "Money.",
+          "Two men kissing",
+          "Calm down",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 2, 1, 0, 0, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? A destructive black hole.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men kissing.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Calm down.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"0": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    },
+    "undefined": {
+      "data": {
+        "questions": [
+          "<p><img src=\"https://media1.tenor.com/images/5e61ca0400e8749cbdb67c46a7af3a3b/tenor.gif?itemid=9238157\" width=\"480\" height=\"360\"/></p>\n<p>You may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment?</p>",
+          "<p><img src=\"https://media2.giphy.com/media/l0ExdE5V3AfFKiPhC/giphy.gif?cid=790b76116f72cf43e966236f9f80e9e5be22ebadcd292947&amp;rid=giphy.gif\" width=\"400\" height=\"225\"/></p>\n<p>When taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class)</p>",
+          "<p><img src=\"https://media2.giphy.com/media/3o7aCUDskE28gr8kdq/giphy.gif?cid=790b7611e04c5292aeb09456603f3b7747364c567e851e8f&amp;rid=giphy.gif\" width=\"480\" height=\"320\"/></p>\n<p>The \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be?</p>",
+          "<p><img src=\"https://media1.giphy.com/media/D7Qzw12q9s8Tu/giphy.gif?cid=790b761107d3802e2124df4a72cd05cf6c9a9add723410a0&amp;rid=giphy.gif\" width=\"500\" height=\"364\"/></p>\n<p>The “OK” hand gesture in Western Culture, means what in Japan ?</p>",
+          "<p>What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries?</p>",
+          "<p>When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means…</p>",
+          "<p>Which one of the following gestures is an insult to a cheated husband?&nbsp;</p>",
+          "<p><img src=\"https://media1.tenor.com/images/ec05599a94b28c963d8e1671e9706065/tenor.gif?itemid=7390009\" width=\"450\" height=\"338\"/></p>\n<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:</p>",
+          "<p><img src=\"https://media2.giphy.com/media/xT9IgpernHLP5eWOY0/giphy.gif?cid=790b76118f425075552acbe27611ff3e0ee2c2c6f4a875e1&amp;rid=giphy.gif\" width=\"480\" height=\"480\"/></p>\n<p>Different version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ...</p>"
+        ],
+        "answers": [
+          "Japan",
+          "That he has an adulterous wife",
+          "The evil eye",
+          "Money.",
+          "Two men holding hands",
+          "Get lost",
+          "Horn ears",
+          "Your job",
+          "Warding of the evil eye"
+        ],
+        "answersIndex": [3, 1, 0, 1, 3, 2, 1, 1, 0],
+        "maxCorrect": 9,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "Your partner answered the questions as follows: \nYou may have been told when you were younger that you shouldn’t talk with your mouth full. Eating habits are viewed very differently by different cultures. At a British dinner table it would be seen as rude to slurp your food and drink. In which country is slurping a compliment? Japan.  \nWhen taking a picture you may see people motioning the “rabbit ears” sign behind another person’s head. In countries such as Britain this is done in a harmless, playful manner. However, when done to a Brazilian man what are you seen to be suggesting? (Hint: Horn sign that we saw in class) That he has an adulterous wife.  \nThe \"OK\" sign made by forming a circle with your thumb and forefinger is generally used by Britons and Americans to tell each other that everything is fine. What less flattering symbol would a Kuwaiti take this gesture to be? The evil eye.  \nThe “OK” hand gesture in Western Culture, means what in Japan ? Money..  What act, seen as homosexual in westernized countries, is a very common sign of friendship in India, Muslim countries and African countries? Two men holding hands.  When an Arabic person brings the tips of all fingers and thumb together and bobs the hand up and down, this means… Get lost.  Which one of the following gestures is an insult to a cheated husband? Horn ears.  \nWhat are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  \nDifferent version of the same gesture may have different meanings even in the same country. When Ronnie James Dio, a rock legend, popularizes the following gesture in heavy metal community by seeing his grandmother doing the same gesture implying ... Warding of the evil eye.",
+        "form": {
+          "0": {"3": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"0": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"2": true, "text": ""},
+          "6": {"1": true, "text": ""},
+          "7": {"1": true, "text": ""},
+          "8": {"0": true, "text": ""}
+        }
+      }
+    }
+  }
+}

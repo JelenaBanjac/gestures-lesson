@@ -1,0 +1,17 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "mixed1": {"data": ["kiarash_farivar", "ambroise_renaud"]},
+    "mixed2": {"data": []},
+    "mixed3": {
+      "data": ["arnaud_garin", "lukas_deloose", "thanuditha_wickramasinghe"]
+    },
+    "mixed4": {"data": ["kim_haeeun", "graziano_rossini"]},
+    "mixed5": {"data": ["anna_andersson", "alexandre_thimonier"]},
+    "same1": {"data": ["oriane_peter", "antoine_clivaz"]},
+    "same3": {"data": ["natalia_gullon", "alfonso_fernandez", "marcel_moya"]},
+    "same4": {"data": ["guido_sergi", "giacomo_alliata"]},
+    "same5": {"data": ["anel_muhamedagic", "max_schnaubelt"]},
+    "undefined": {"data": ["kevin", "Arnaud Michel Garin", "louis"]}
+  }
+}

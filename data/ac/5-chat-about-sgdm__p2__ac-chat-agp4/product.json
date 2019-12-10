@@ -1,0 +1,147 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "mixed1": {
+      "data": {
+        "ck3zmy68u00013e71qfi2rs80": {
+          "order": 1,
+          "msg": "hellllllo",
+          "user": "ambroise_renaud",
+          "id": "ck3zmy68u00013e71qfi2rs80"
+        },
+        "ck3zn3h0c00023e71yzpd7c4z": {
+          "order": 2,
+          "msg": "im french",
+          "user": "ambroise_renaud",
+          "id": "ck3zn3h0c00023e71yzpd7c4z"
+        },
+        "ck3zn3x8n00033e717r2gqyfs": {
+          "order": 3,
+          "msg": "azerty",
+          "user": "ambroise_renaud",
+          "id": "ck3zn3x8n00033e717r2gqyfs"
+        }
+      }
+    },
+    "mixed2": {"data": {}},
+    "mixed3": {"data": {}},
+    "mixed4": {"data": {}},
+    "mixed5": {"data": {}},
+    "same1": {"data": {}},
+    "same3": {
+      "data": {
+        "ck3zn3tx500013b7gsepbru3b": {
+          "order": 1,
+          "msg": "",
+          "user": "marcel_moya",
+          "id": "ck3zn3tx500013b7gsepbru3b"
+        },
+        "ck3zn3u2k00023b7gvnypqtyi": {
+          "order": 2,
+          "msg": "",
+          "user": "marcel_moya",
+          "id": "ck3zn3u2k00023b7gvnypqtyi"
+        },
+        "ck3zn3u7w00033b7gbsxpc5gt": {
+          "order": 3,
+          "msg": "",
+          "user": "marcel_moya",
+          "id": "ck3zn3u7w00033b7gbsxpc5gt"
+        },
+        "ck3zn3ucr00043b7gnois84de": {
+          "order": 4,
+          "msg": "",
+          "user": "marcel_moya",
+          "id": "ck3zn3ucr00043b7gnois84de"
+        },
+        "ck3zn3vsh00053b7gdausf69b": {
+          "order": 5,
+          "msg": "",
+          "user": "marcel_moya",
+          "id": "ck3zn3vsh00053b7gdausf69b"
+        },
+        "ck3zn3vyp00063b7g1fvla9zy": {
+          "order": 6,
+          "msg": "",
+          "user": "marcel_moya",
+          "id": "ck3zn3vyp00063b7g1fvla9zy"
+        },
+        "ck3zn3zdm00073b7gy7qcj1fu": {
+          "order": 7,
+          "msg": "Fonsooo",
+          "user": "marcel_moya",
+          "id": "ck3zn3zdm00073b7gy7qcj1fu"
+        }
+      }
+    },
+    "same4": {"data": {}},
+    "same5": {
+      "data": {
+        "ck3zmxu880001317g2ytewoxi": {
+          "order": 1,
+          "msg": "Hi",
+          "user": "anel_muhamedagic",
+          "id": "ck3zmxu880001317g2ytewoxi"
+        },
+        "ck3zmxw3w00012a7ue66v8jla": {
+          "order": 2,
+          "msg": "hey",
+          "user": "max_schnaubelt",
+          "id": "ck3zmxw3w00012a7ue66v8jla"
+        },
+        "ck3zn2blk00022a7uta04h7ug": {
+          "order": 3,
+          "msg": "nice",
+          "user": "max_schnaubelt",
+          "id": "ck3zn2blk00022a7uta04h7ug"
+        },
+        "ck3zn2dok00032a7ug1vvi10z": {
+          "order": 4,
+          "msg": "good job team",
+          "user": "max_schnaubelt",
+          "id": "ck3zn2dok00032a7ug1vvi10z"
+        },
+        "ck3zn2hgl0002317g7zxacthi": {
+          "order": 5,
+          "msg": "well done",
+          "user": "anel_muhamedagic",
+          "id": "ck3zn2hgl0002317g7zxacthi"
+        },
+        "ck3zn3ii000042a7uj4dy8gf9": {
+          "order": 6,
+          "msg": "g̡̜̻̹o̖͉̤o̞̩̤̠d̘̬̹̝͔̞͉ ̙͙̤̟̲j̧̦o̮̫̣̕b̶ ̤͚͉̥̀t͜e̺̰a͓̳̝͉̤̕m͎̻̪̬̥̥",
+          "user": "max_schnaubelt",
+          "id": "ck3zn3ii000042a7uj4dy8gf9"
+        },
+        "ck3zn3or000052a7uuzjlglfo": {
+          "order": 7,
+          "msg": "http://eeemo.net/",
+          "user": "max_schnaubelt",
+          "id": "ck3zn3or000052a7uuzjlglfo"
+        }
+      }
+    },
+    "undefined": {
+      "data": {
+        "ck3zmy8ox00013h7iar13b2oo": {
+          "order": 1,
+          "msg": "Hello",
+          "user": "kevin",
+          "id": "ck3zmy8ox00013h7iar13b2oo"
+        },
+        "ck3zmyw7h00013h7ggjpq7407": {
+          "order": 2,
+          "msg": "That's our amazing FROG- sync collaborative activity ",
+          "user": "louis",
+          "id": "ck3zmyw7h00013h7ggjpq7407"
+        },
+        "ck3zn6j6a00023h7ikckkn2fd": {
+          "order": 3,
+          "msg": "Cool",
+          "user": "kevin",
+          "id": "ck3zn6j6a00023h7ikckkn2fd"
+        }
+      }
+    }
+  }
+}

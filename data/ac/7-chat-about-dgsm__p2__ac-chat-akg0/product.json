@@ -1,0 +1,57 @@
+{
+  "structure": {"groupingKey": "group"},
+  "payload": {
+    "mixed1": {
+      "data": {
+        "ck3znhzcs00043e71bblx2jjl": {
+          "order": 1,
+          "msg": "azerty",
+          "user": "ambroise_renaud",
+          "id": "ck3znhzcs00043e71bblx2jjl"
+        }
+      }
+    },
+    "mixed2": {"data": {}},
+    "mixed3": {"data": {}},
+    "mixed4": {"data": {}},
+    "mixed5": {"data": {}},
+    "same1": {"data": {}},
+    "same3": {
+      "data": {
+        "ck3zncsho00013e71xfp6y99l": {
+          "order": 1,
+          "msg": "hola",
+          "user": "alfonso_fernandez",
+          "id": "ck3zncsho00013e71xfp6y99l"
+        },
+        "ck3zncvx300013e73358ft1af": {
+          "order": 2,
+          "msg": "k tal",
+          "user": "natalia_gullon",
+          "id": "ck3zncvx300013e73358ft1af"
+        }
+      }
+    },
+    "same4": {"data": {}},
+    "same5": {
+      "data": {
+        "ck3zngjy000062a7ujwg1muaf": {
+          "order": 1,
+          "msg": "w̤͖̖͍͍̲͕͍̺̞̔̽ͮ̈̑̓̃ͬ̀͐̑̇͗ͫͧ̽ͦͯ̚w̤͖̖͍͍̲͕͍̺̞̔̽ͮ̈̑̓̃ͬ̀͐̑̇͗ͫͧ̽ͦͯ̚w̤͖̖͍͍̲͕͍̺̞̔̽ͮ̈̑̓̃ͬ̀͐̑̇͗ͫͧ̽ͦͯ̚",
+          "user": "max_schnaubelt",
+          "id": "ck3zngjy000062a7ujwg1muaf"
+        }
+      }
+    },
+    "undefined": {
+      "data": {
+        "ck3zneofy00023h7gy61fcgse": {
+          "order": 1,
+          "msg": "Was this really in the slides ?? ",
+          "user": "louis",
+          "id": "ck3zneofy00023h7gy61fcgse"
+        }
+      }
+    }
+  }
+}

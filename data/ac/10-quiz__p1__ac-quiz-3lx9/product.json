@@ -1,0 +1,957 @@
+{
+  "structure": "individual",
+  "payload": {
+    "5EXCQnZhCA6zJXMfc": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "oriane_peter answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "6wGpAszDXzyaqDTMC": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "7ve93AMiyJxTjDWzo": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Mexico",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 2, 2, 2, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "thanuditha_wickramasinghe answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Mexico.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "AHkyrn5BbDZrT8tvL": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "BeeRZY88SsSADkSBX": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Mexico",
+          "Your job",
+          "Nod and smile",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 2, 2, 1, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "graziano_rossini answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Mexico.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "E2NHmugrwKnjFstoq": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Nod and smile",
+          "Turkey",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 1, 0, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "alfonso_fernandez answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Turkey.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "ECb69u4qqnwvTotGF": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Turkey",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 0, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "marcel_moya answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Turkey.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "FpDhiYPsxpCmfzGt9": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Bulgaria",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 2, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "lukas_deloose answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Bulgaria.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"2": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "LbiCqiXduKEFKuZdA": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Bulgaria",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 2, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "anel_muhamedagic answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Bulgaria.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"2": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "NWWuKacDf4pCFApcy": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "PBWAT2rngij4Dfh6f": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "QtXMWLyAA9qSeRaZY": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Mexico",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Pagan religions"
+        ],
+        "answersIndex": [1, 2, 2, 2, 1, 0],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "alexandre_thimonier answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Mexico.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Pagan religions.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"0": true, "text": ""}
+        }
+      }
+    },
+    "SotDEjTSaNKaESxch": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Mexico",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 2, 2, 2, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "guido_sergi answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Mexico.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "WPq7msGN5gikmDH6H": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Nod and smile",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 1, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "kim_haeeun answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "WkjgrpPsCrwmF3iMX": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "ZrwNgxkNN5imsFjR8": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Turkey",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 0, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "giacomo_alliata answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Turkey.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "baPKfXJY5CJgf37wz": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "dxwggXcHRWu3NqwFw": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "ewQMLy2vqTbQcznmw": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Nod and smile",
+          "Turkey",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 1, 0, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "ambroise_renaud answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Turkey.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "g5QS8GZ6gaFThnu94": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "h9DbYaYDRigas5GqE": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "arnaud_garin answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "jMCMpYBbRLzyWXcis": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "mwcmftpKEGcrJjmEg": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "p7f8C6vWQARqdtqSM": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Mexico",
+          "Your money",
+          "Nod and smile",
+          "Sri Lanka",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 2, 3, 1, 3, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "kiarash_farivar answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Mexico.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your money.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Sri Lanka.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"3": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "pA6z6YnXujToyJrBY": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "kevin answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "qMfkLqEWcy7Wx3n3p": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Nod and smile",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 1, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "louis answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "qY6cWzaq5jddQBnGN": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Bulgaria",
+          "Ancient Pagan religions"
+        ],
+        "answersIndex": [1, 3, 2, 2, 2, 0],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "anna_andersson answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Bulgaria.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Pagan religions.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"2": true, "text": ""},
+          "5": {"0": true, "text": ""}
+        }
+      }
+    },
+    "rxu8yDTMNfX5z6PFh": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "syNxvCHRJbFw3pRxs": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Nod and smile",
+          "Turkey",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 1, 0, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "natalia_gullon answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Nod and smile.  Waving goodbye is considered awful in ……. Turkey.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"1": true, "text": ""},
+          "4": {"0": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "tig6zqWwK3PJnR3cg": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Mexico",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Sri Lanka",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 2, 2, 2, 3, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "max_schnaubelt answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Mexico.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Sri Lanka.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"2": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"3": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    },
+    "vsZz5L2JrN4uYE53W": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "ySNn7Cnd8skxzfp9z": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [null, null, null, null, null, null],
+        "answersIndex": [-1, -1, -1, -1, -1, -1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "form": {
+          "0": {"text": ""},
+          "1": {"text": ""},
+          "2": {"text": ""},
+          "3": {"text": ""},
+          "4": {"text": ""},
+          "5": {"text": ""}
+        }
+      }
+    },
+    "yk6iDjghhH2jaDhiZ": {
+      "data": {
+        "questions": [
+          "<p>Which gesture do west African parents use to imply that their children should leave the room when they have guests?</p>",
+          "<p>The “OK” hand gesture considered as an insult in …….. ? <img src=\"/minio/uploads/ck3w6cleb00ad307ivzt9ams9\" width=\"239\" height=\"203\"/></p>",
+          "<p>What are you going to lose in Japan, if someone does “the neck slide” gesture to you:<img src=\"/minio/uploads/ck3w6m0ey00ag307ih886dh3g\" width=\"263\" height=\"175\"/></p>",
+          "<p>You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what?</p>",
+          "<p>Waving goodbye is considered awful in …….<img src=\"https://www.contiki.com/six-two/wp-content/uploads/2017/08/wave.gif\" width=\"480\" height=\"269\"/></p>",
+          "<p>‘Pressing thumbs’ in some German speaking countries traces back to …... <img src=\"/minio/uploads/ck3w7pr7k00b5307ipylq97l9\" width=\"356\" height=\"152\"/></p>"
+        ],
+        "answers": [
+          "wink",
+          "Venezuela",
+          "Your job",
+          "Make a sharp sucking noise",
+          "Cyprus",
+          "Ancient Romans"
+        ],
+        "answersIndex": [1, 3, 2, 2, 1, 1],
+        "maxCorrect": 6,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "antoine_clivaz answered the questions as follows: Which gesture do west African parents use to imply that their children should leave the room when they have guests? wink.  The “OK” hand gesture considered as an insult in …….. ?  Venezuela.  What are you going to lose in Japan, if someone does “the neck slide” gesture to you: Your job.  You are in Sweden and you are listening to a very interesting story from a friend about their internship they had abroad. To show them you are on the same page as them and don’t want to interrupt the flow of the conversation, you would do what? Make a sharp sucking noise.  Waving goodbye is considered awful in ……. Cyprus.  ‘Pressing thumbs’ in some German speaking countries traces back to …...  Ancient Romans.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"3": true, "text": ""},
+          "2": {"2": true, "text": ""},
+          "3": {"2": true, "text": ""},
+          "4": {"1": true, "text": ""},
+          "5": {"1": true, "text": ""}
+        }
+      }
+    }
+  }
+}
